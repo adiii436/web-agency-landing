@@ -94,7 +94,7 @@ npm run dev
 
 Go to:
 
-👉 http://localhost:3000
+👉  http://localhost:3001
 
 🎥 Live Demo Video (For Assignment)
 
