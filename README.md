@@ -150,4 +150,30 @@ Add blog section
 
 Aditya Lokhande
 Web Developer | Next.js | Frontend Engineering
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/HomePage.png)
+
+### 💼 Services Page
+![Services Page](./screenshots/Services.png)
+
+### 🖼 Portfolio Page
+![Portfolio Page](./screenshots/Portfolio.png)
+
+### ℹ About Page
+![About Page](./screenshots/About.png)
+
+### 📞 Contact Page
+![Contact Page](./screenshots/Contact.png)
+
+### 🌙 Dark Mode
+![Dark Mode](./screenshots/DarkMode.png)
+
+### 📱 Project / Mobile View
+![Project](./screenshots/Project.png)
+
+
 
